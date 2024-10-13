@@ -1,0 +1,16 @@
+.search-bar {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .search-input, .filter-input {
+    margin-right: 10px;
+    flex: 1; 
+  }
+  
+  .search-button {
+    display: flex;
+    align-items: center;
+  }
+  

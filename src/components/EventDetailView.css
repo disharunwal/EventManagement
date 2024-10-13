@@ -1,0 +1,37 @@
+
+
+.event-detail {
+    background: white;
+    padding: 20px;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 600px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .event-detail h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .event-detail p {
+    color: #555;
+    margin: 10px 0;
+  }
+  
+  .event-detail .edit-button {
+    background-color: #ff9800;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 1em;
+  }
+  
+  .event-detail .edit-button:hover {
+    background-color: #fb8c00;
+  }
+  

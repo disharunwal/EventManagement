@@ -1,0 +1,18 @@
+/* App.css */
+
+.app-container {
+  display: flex; /* Use flexbox */
+  min-height: 100vh; /* Make sure it covers the full height */
+}
+
+.sidebar {
+  width: 250px; /* Set a fixed width for the sidebar */
+  background-color: #f0f0f0; /* Optional: Sidebar background color */
+  padding: 20px; /* Optional: Add padding */
+}
+
+.main-content {
+  flex-grow: 1; /* Allow main content to take the remaining space */
+  padding: 20px; /* Optional: Add padding to the main content */
+  background-color: #fff; /* Optional: Main content background color */
+}

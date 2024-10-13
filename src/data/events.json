@@ -1,0 +1,63 @@
+
+[
+  {
+    "id": 1,
+    "title": "Tech Conference 2024",
+    "description": "A conference about the latest in tech.",
+    "location": "123 Tech St, Tech City",
+    "date": "2024-12-01T10:00:00Z",
+    "endDate": "2024-12-01T15:00:00Z",
+    "organizer": "Tech Co.",
+    "isPublic": true,
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk9B1dobSYSpzSNSNIlBoHfJC2yynE2-kk2A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9QMTztPT7G_zeeUOmGJl7pgSV1PKVYtP__wlP40ZVLwVJQ14jcBoedlmQPt_NNW1JrQs&usqp=CAU",
+      "https://3.imimg.com/data3/MR/FS/MY-14937000/music-concert-500x500.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Dance Club Event",
+    "description": "An exhibition showcasing local artists.",
+    "location": "456 Art Ave, Art City",
+    "date": "2024-11-20T09:00:00Z",
+    "endDate": "2024-11-20T17:00:00Z",
+    "organizer": "Art Society",
+    "isPublic": false,
+    "images": [
+      "https://3.imimg.com/data3/MR/FS/MY-14937000/music-concert-500x500.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPVZtQyB3qTlxAY84Fnr0ADYk8YvYWhmA0bw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SLQcGOZZYvzBGeI3XLGk0eX8W2D2zoO98Q&s"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Music Festival",
+    "description": "A weekend of live music performances.",
+    "location": "789 Music Blvd, Music City",
+    "date": "2024-10-15T12:00:00Z",
+    "endDate": "2024-10-17T22:00:00Z",
+    "organizer": "Music Live",
+    "isPublic": true,
+    "images": [
+      "https://i.pinimg.com/736x/4b/92/43/4b924325613089a96886f1f64ce6d657.jpg",
+      "https://img.freepik.com/premium-vector/gradient-colorful-music-festival-banners_23-2149126067.jpg",
+      "https://img.freepik.com/free-vector/gradient-colorful-music-festival-landing-page_23-2149126072.jpg"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Startup Meetup",
+    "description": "Networking event for startup enthusiasts.",
+    "location": "321 Startup Ln, Startup City",
+    "date": "2024-09-10T18:00:00Z",
+    "endDate": "2024-09-10T21:00:00Z",
+    "organizer": "Startup Hub",
+    "isPublic": false,
+    "images": [
+      "https://3.imimg.com/data3/MR/FS/MY-14937000/music-concert-500x500.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRc2UXMTyudEb9fn9gfe01hrg0hyjyygTpngw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUs7jhZ9uGBJncUKewMMPFxZC_Cf6zZYoKdw&s"
+    ]
+  }
+]

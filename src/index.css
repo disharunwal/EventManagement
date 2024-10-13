@@ -1,0 +1,53 @@
+/* src/styles.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background: #333;
+  padding: 10px;
+}
+
+nav a {
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+}
+
+form {
+  background: white;
+  padding: 20px;
+  margin: 20px;
+  border-radius: 5px;
+}
+
+input,
+textarea {
+  width: 100%;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+button {
+  background: #5cb85c;
+  color: white;
+  border: none;
+  padding: 10px;
+}
+/* src/components/EventListView.css */
+
+/* Existing styles... */
+
+@media (max-width: 768px) {
+  .event-list {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .event-card {
+    width: 90%;
+  }
+}
